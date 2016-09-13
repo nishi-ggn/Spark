@@ -1,0 +1,3 @@
+1,nishikant,100
+2,ankit,200
+3,palash,300
